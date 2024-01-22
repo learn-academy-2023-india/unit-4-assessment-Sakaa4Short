@@ -1,7 +1,5 @@
 // UNIT 4: JavaScript Coding Practical Questions with Jest
 
-const { number } = require("yargs")
-
 // Please read all questions thoroughly. If you get stuck, please leave comments to help us understand your thought process.
 
 // Use test driven development to complete the following questions
@@ -47,6 +45,7 @@ console.log(fibonacciLegnth(10))
 // Take in a number and add it to the previous input
 // Take the sum and add it to the next input.
 // Console log the function with .legnth to create the expected output 
+// .push was the better option as opposed to .length
 
 // --------------------2) Create a function that takes in an object that contains up votes and down votes and returns the end tally.
 
