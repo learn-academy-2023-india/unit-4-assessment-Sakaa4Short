@@ -20,7 +20,7 @@ Differences
 2. JavaScript uses console.log Ruby uses puts or p 
 3. Ruby Hash and JavaScript Objects are structured differently 
 
-Researched answer:
+Researched answer: According to appacademy.io, both Ruby and JavaScript are object oriented languages. They both have huge libraries and can both be used for back-end development. As far as differences, the syntax of ruby is easier and more straightforward than JavaScript. Along with the uses of Javascript being front-end and back-end friendly and Ruby being seemingly more back-end focused.
 
 2. What does it mean to implement a TDD workflow?
 
